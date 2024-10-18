@@ -1,0 +1,28 @@
+{
+    "mySavings": [
+        {
+            "title": "Savings for a",
+            "budget": 150
+        },
+        {
+            "title": "Savings for b",
+            "budget": 450
+        },
+        {
+            "title": "Savings for c",
+            "budget": 200
+        },
+        {
+            "title": "Savings for d",
+            "budget": 54
+        },
+        {
+            "title": "Savings for e",
+            "budget": 50
+        },
+        {
+            "title": "Savings for f",
+            "budget": 400
+        }
+    ]
+  }

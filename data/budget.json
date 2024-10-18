@@ -1,0 +1,28 @@
+{
+  "myBudget": [
+      {
+          "title": "Take Out",
+          "budget": 150
+      },
+      {
+          "title": "Rent",
+          "budget": 450
+      },
+      {
+          "title": "Grocery",
+          "budget": 200
+      },
+      {
+          "title": "Phone Bill",
+          "budget": 54
+      },
+      {
+          "title": "Shopping",
+          "budget": 50
+      },
+      {
+          "title": "Trip",
+          "budget": 400
+      }
+  ]
+}
